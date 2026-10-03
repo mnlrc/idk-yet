@@ -1,0 +1,22 @@
+# LaTeX build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+_minted-*
