@@ -18,8 +18,6 @@ By checking if:
 - **Clickjacking**
 - others...
 
-
-
 ## Website vulnerabilities
 
 Some of these vulnerabilities can already be hinted at when reading the header. This
@@ -27,5 +25,16 @@ is the case of the **CME** (Common Weakness Enumeration) number 79 and 80 ie Cro
 Scripting (XSS) and HTML injections respectively.
 
 These injections being similar to SQL injections in the way that we enter data in the
-input fields that will be executed for *malicious* purposes.
+input fields that will be executed for _malicious_ purposes.
 
+## Useful links
+
+- [HTML injection](https://offensive360.com/blog/html-injection-vulnerability/)
+- [Python requests library](https://docs.python-requests.org/en/latest/user/advanced/#session-objects)
+- [Common Weakness Enumeration](https://cwe.mitre.org/data/definitions/1000.html)
+- [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) - not the AI thing
+- [HTTP header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers)
+- [Simple URL definition](https://www.geeksforgeeks.org/computer-networks/components-of-a-url/) - for dumbasses like me
+- [Beautiful Soup docs](https://beautiful-soup-4.readthedocs.io/en/latest/) - HTML (and XML) parsing
+- [Some cyber project ideas](https://www.knowledgehut.com/blog/security/top-cyber-security-projects)
+- [The link to the repo of this dumb project](https://github.com/mnlrc/idk-yet)
